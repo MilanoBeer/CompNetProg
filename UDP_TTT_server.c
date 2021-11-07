@@ -1,7 +1,3 @@
-/* 
-HW4_
-글로벌소프트웨어융합전공 2018117460 신혜연
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
