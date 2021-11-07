@@ -1,4 +1,4 @@
-/* 2018117460 글솝 신혜연 */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
