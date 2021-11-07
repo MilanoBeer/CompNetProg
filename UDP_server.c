@@ -1,5 +1,4 @@
  /* 
- 2018117460 글솝 신혜연
  socket option inquiry program / udp 
  */
 
